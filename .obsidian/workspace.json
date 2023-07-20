@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "43562aee34e02932",
   "lastOpenFiles": [
-    "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md",
+    "Physics/Waves_Evaluation_and_Analysis_Task_Research.md",
     "index.md",
+    "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md",
     "testfolder/test.md",
     "README.md",
     "screw_right_wings.md",

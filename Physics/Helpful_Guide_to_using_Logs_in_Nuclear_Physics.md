@@ -62,5 +62,7 @@ And there you go! I hope you liked the
 # HELPFUL GUIDE FOR
 
 just kidding
+
 this was funny
+
 If you guys want more practice questions to use this method just use the same question and change the values (or time measurements) to anything you want, this was just doctored to give a nice answer.
