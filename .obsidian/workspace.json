@@ -11,8 +11,12 @@
             "id": "43562aee34e02932",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "7824bbda1fc3efa7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           }
         ]
@@ -139,5 +155,13 @@
     }
   },
   "active": "43562aee34e02932",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md",
+    "index.md",
+    "testfolder/test.md",
+    "README.md",
+    "screw_right_wings.md",
+    "they.md",
+    "test.md"
+  ]
 }

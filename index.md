@@ -1,11 +1,25 @@
 ---
-title: "your new jekyll website"
+title: Into the shadow garten
 ---
 
-jekyll turns markdown and html files into an actual website. it uses a thing called 'YAML frontmatter' and it is pretty easy to learn. if you are viewing this inside your editor, you will notice the top bit. this is the frontmatter, which is essentially you telling jekyll what properties your file has. here, we can see that the title is "your new jekyll website". even if you won't define anything, you need this frontmatter, as it also tells jekyll that you want it to actually work with it.
+Jello! I make some funny notes for things I find interesting or just for reference. Ignore the link below, only my joy for finally having a website.
 
-\*\***this is to make stuff bold**\*\*, \**this makes stuff italics*\*, \~\~~~this strikes them out~~\~\~. sadly there is no underline in markdown formatting. you can also make headers using:
+[waw](screw_right_wings.md)
 
-## \## hashtags like that.
+I make notes on mostly science (physics & chem, anything else is terrible), literature and also Japanese (usually summaries). 
 
-finally, you can make files [\[like this\]\(test.md\)](test.md), and you can link to images too: ![\!\[like this\]\(assets/axolotl.png)](assets/axolotl.png)
+Physics Notes:
+- [i need help (first physics CAP notes)](Physics/Linear_Motion_Notes.md)
+- [yum (Waves investigation)](Physics/Waves_Evaluation_and_Analysis_Task_Research.md)
+- [tastier (Waves Topic Test and Resonance Validation Test)](Physics/Waves_and_Resonance_Notes.md)
+- [delectable (Standard Model)](Physics/Standard_Model.md)
+- [The Helpful Guide to using Logs in Nuclear Physics](Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics)
+
+Chemistry Notes:
+- Work in progress! (I mostly write my notes for chemistry)
+
+Literature Notes:
+- [rantsolve of Jekyll and Hyde?](Literature/I_hate_psychoanalysis_but_that_and_Jekyll_and_Hyde.md)
+
+Japanese Notes:
+- [Test on 4th! mmmMMEWINERGMFINWIEFS](Japanese/Writing_test_summary.md)
