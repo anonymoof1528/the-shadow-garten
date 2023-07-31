@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md",
+                "file": "Chemistry/Shan_mei_Chem_answers.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md",
+                "file": "Chemistry/Shan_mei_Chem_answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md",
+                "file": "Chemistry/Shan_mei_Chem_answers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md"
+                "file": "Chemistry/Shan_mei_Chem_answers.md"
               }
             }
           }
@@ -156,9 +156,10 @@
   },
   "active": "43562aee34e02932",
   "lastOpenFiles": [
+    "Chemistry/Potable_Water.md",
+    "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md",
     "Physics/Waves_Evaluation_and_Analysis_Task_Research.md",
     "index.md",
-    "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md",
     "testfolder/test.md",
     "README.md",
     "screw_right_wings.md",

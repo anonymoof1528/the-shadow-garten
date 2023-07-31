@@ -38,3 +38,5 @@ Thanks to the rise of RO and development of technology used for it, the issue of
 ### Groundwater treatment
 
 About 180 bores (bore water is water drawn from soil and rocks that have rainwater)
+
+

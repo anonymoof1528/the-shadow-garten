@@ -1,9 +1,7 @@
 ---
 title: Shan-mei chem
-render_with_liquid: false
 ---
 
-{% raw %}
 
 Neutralisation
 ${AgNO_3}_{(aq)}+{Cu}_{(s)}\rightarrow{{Cu(NO_{3})}_{2}}_{(aq)}+{Ag}_{(s)}$
@@ -38,5 +36,3 @@ $2{NaCl}_{(aq)}+{F_2}_{(g)}\rightarrow2{NaF}_{(aq)}+{Cl_{2}}_{(g)}$
 
 Neutralisation
 $2{AgHCO_3}_{(s)}+{H_2SO_3}_{(aq)}\rightarrow{{Ag_2SO_3}_{(s)}}+{2{H_2O}_{(l)}}+{2{CO_2}_{(g)}}$
-
-{% endraw %}
