@@ -1,3 +1,7 @@
+---
+title: Conference Day!
+---
+
 My first Lit page in a while
 
 Conference day was better than I expected to be honest, I thought we were just going to be listening to Year 12s and teachers as well but it was pretty fun. 

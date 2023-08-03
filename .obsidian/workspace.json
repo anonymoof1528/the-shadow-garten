@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Conference Day! (AusLit Conference).md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Conference Day! (AusLit Conference).md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Conference Day! (AusLit Conference).md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Conference Day! (AusLit Conference).md"
+                "file": "index.md"
               }
             }
           }
@@ -169,12 +169,12 @@
   },
   "active": "d168363a8b8c5ff5",
   "lastOpenFiles": [
+    "Literature/Conference_Day!_(AusLit_Conference).md",
+    "index.md",
     "Chemistry/Shan_mei_Chem_answers.md",
-    "Literature/Conference Day! (AusLit Conference).md",
     "Chemistry/Potable_Water.md",
     "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md",
     "Physics/Waves_Evaluation_and_Analysis_Task_Research.md",
-    "index.md",
     "testfolder/test.md",
     "README.md",
     "screw_right_wings.md",
