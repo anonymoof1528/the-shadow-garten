@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d168363a8b8c5ff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/Conference Day! (AusLit Conference).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Shan_mei_Chem_answers.md",
+                "file": "Literature/Conference Day! (AusLit Conference).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Shan_mei_Chem_answers.md",
+                "file": "Literature/Conference Day! (AusLit Conference).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Shan_mei_Chem_answers.md"
+                "file": "Literature/Conference Day! (AusLit Conference).md"
               }
             }
           }
@@ -154,8 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43562aee34e02932",
+  "active": "d168363a8b8c5ff5",
   "lastOpenFiles": [
+    "Chemistry/Shan_mei_Chem_answers.md",
+    "Literature/Conference Day! (AusLit Conference).md",
     "Chemistry/Potable_Water.md",
     "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md",
     "Physics/Waves_Evaluation_and_Analysis_Task_Research.md",
