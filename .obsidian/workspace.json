@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Going_Ham.md",
+                "file": "Literature/Conference_Day.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Going_Ham.md",
+                "file": "Literature/Conference_Day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Going_Ham.md",
+                "file": "Literature/Conference_Day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Going_Ham.md"
+                "file": "Literature/Conference_Day.md"
               }
             }
           }
@@ -156,10 +156,11 @@
   },
   "active": "216f85507744faa2",
   "lastOpenFiles": [
-    "index.md",
+    "_config.yml.sb-198fb6d3-MTZ7px",
     "Literature/Going_Ham.md",
-    "CNAME",
     "Literature/Conference_Day.md",
+    "index.md",
+    "CNAME",
     "Chemistry/E-Z_Isomerism.md",
     "Chemistry/Mechanisms of Reactions.md",
     "Chemistry/Shan_mei_Chem_answers.md",
