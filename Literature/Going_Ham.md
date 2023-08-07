@@ -2,7 +2,7 @@
 title: An abomination beyond human comprehension
 ---
 
-mostly edward
+mostly edward tbh
 ## Brenda Matthews
 - author and speaker - lots of titles, + film thing - last daugher $\implies$ autobiographical https://www.abc.net.au/news/2023-04-27/last-daughter-film-brenda-matthews-story-stolen-generation/102267702
 - Search for family, identity? $\implies$Childhood innocence, cannot recognise their disenfranchising/manipulation
