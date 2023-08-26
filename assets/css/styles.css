@@ -33,8 +33,7 @@ p {
 }
 
 @keyframes mymove {
-  50% {translate: 444px;}
-  100% {translate: -96px;}
+  50% {translate: 860px;}
 }
 
 .page-content {
