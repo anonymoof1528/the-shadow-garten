@@ -26,8 +26,8 @@ p {
 
 #DIV2 {
   border: 4px solid #e07800;
-  width: 168px;
-  height: 168px;
+  width: 160px;
+  height: em;
   translate: 0 0;
   animation: mymove 5s infinite;
 }
