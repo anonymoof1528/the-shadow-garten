@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Conference_Day.md",
+                "file": "Literature/Going_Ham.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "142ab2cc11e7d2b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Conference_Day.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Conference_Day.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Conference_Day.md"
+                "file": "index.md"
               }
             }
           }
@@ -154,11 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "216f85507744faa2",
+  "active": "142ab2cc11e7d2b9",
   "lastOpenFiles": [
-    "_config.yml.sb-198fb6d3-MTZ7px",
+    "many.md",
+    "one.md",
+    "README.md",
+    "screw_right_wings.md",
+    "they.md",
+    "Physics/Electricity_and_Electrostatics.md",
     "Literature/Going_Ham.md",
     "Literature/Conference_Day.md",
+    "_config.yml.sb-198fb6d3-MTZ7px",
     "index.md",
     "CNAME",
     "Chemistry/E-Z_Isomerism.md",
@@ -168,9 +187,6 @@
     "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md",
     "Physics/Waves_Evaluation_and_Analysis_Task_Research.md",
     "testfolder/test.md",
-    "README.md",
-    "screw_right_wings.md",
-    "they.md",
     "test.md"
   ]
 }
