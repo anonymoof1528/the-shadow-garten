@@ -36,6 +36,34 @@ p {
   50% {translate: 860px;}
 }
 
+.container {
+    width: 200px;
+    height: 30px;
+    
+    overflow: hidden;
+    position: relative;
+}
+
+.container div {
+    display: block;
+    width: 200%;
+    height: 30px;
+    
+    overflow: hidden;
+    position: absolute;
+    animation: marquee 5s linear infinite;
+}
+
+.container span {
+  float: left;
+  width: 50%;
+}
+
+@keyframes marquee {
+  0% { left: 0; }
+  100% { left: -100%; }
+}
+
 .page-content {
     max-width: 64rem;
     padding: 2rem 6rem;
