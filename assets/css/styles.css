@@ -37,8 +37,9 @@ p {
 }
 
 .container {
-    width: 200px;
-    height: 30px;
+    width: 1200px;
+    height: 2em;
+    margin: auto;
     
     overflow: hidden;
     position: relative;
@@ -47,7 +48,7 @@ p {
 .container div {
     display: block;
     width: 200%;
-    height: 30px;
+    height: 70px;
     
     overflow: hidden;
     position: absolute;
@@ -62,6 +63,16 @@ p {
 @keyframes marquee {
   0% { left: 0; }
   100% { left: -100%; }
+  64% {color: #00283c}
+  100% {text-shadow: 10px 10px 10px red;}
+  90% {text-shadow: 10px 10px 10px yellow;}
+  80% {text-shadow: 10px 10px 10px orange;}
+  70% {text-shadow: 10px 10px 10px green;}
+  64% {text-shadow: 10px 10px 10px #00283c;}
+  50% {text-shadow: 10px 10px 10px blue;}
+  40% {text-shadow: 10px 10px 10px indigo;}
+  30% {text-shadow: 10px 10px 10px violet;}
+  
 }
 
 .page-content {
