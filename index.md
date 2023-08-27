@@ -1,5 +1,5 @@
 ---
-title: In the <span class="bigmarquee"><span class="marquee" id="#1">shadow garten-</span><span class="marquee" id="#2">shadow garten-</span></span>
+title: Into the <div class="container"><div><span>shadow garten</span><span>shadow garten</span></div></div>
 ---
 
 Jello! I make some funny notes for things I find interesting or just for reference. Ignore the link below, only my joy for finally having a website.
