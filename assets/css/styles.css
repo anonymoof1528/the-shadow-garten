@@ -26,14 +26,53 @@ p {
 
 #DIV2 {
   border: 4px solid #e07800;
-  width: 168px;
-  height: 168px;
+  width: 160px;
+  height: em;
   translate: 0 0;
   animation: mymove 5s infinite;
 }
 
 @keyframes mymove {
   50% {translate: 860px;}
+}
+
+.container {
+    width: 100%;
+    height: 2em;
+    margin: auto;
+    
+    overflow: hidden;
+    position: relative;
+}
+
+.container div {
+    display: block;
+    width: 200%;
+    height: 70px;
+    
+    overflow: hidden;
+    position: absolute;
+    animation: marquee 5s linear infinite;
+}
+
+.container span {
+  float: left;
+  width: 50%;
+}
+
+@keyframes marquee {
+  0% { left: 0; }
+  100% { left: -100%; }
+  64% {color: #00283c}
+  100% {text-shadow: 10px 10px 10px red;}
+  90% {text-shadow: 10px 10px 10px yellow;}
+  80% {text-shadow: 10px 10px 10px orange;}
+  70% {text-shadow: 10px 10px 10px green;}
+  64% {text-shadow: 10px 10px 10px #00283c;}
+  50% {text-shadow: 10px 10px 10px blue;}
+  40% {text-shadow: 10px 10px 10px indigo;}
+  30% {text-shadow: 10px 10px 10px violet;}
+  
 }
 
 .page-content {
