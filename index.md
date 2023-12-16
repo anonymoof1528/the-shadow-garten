@@ -2,7 +2,7 @@
 title: Into the <div class="container"><div><span>shadow garten</span><span>shadow garten</span></div></div>
 ---
 
-<blockquote style="background-color: #fdf6e3; max-width: 40em; padding: 0.5em 1em; border-left: 5px solid #268bd2; border-radius: 5px; font-family: sans-serif; color: #657b83; font-size: 20px">
+<blockquote style="background-color: #fdf6e3; max-width: 40em; padding: 0.5em 1em; border-left: 5px solid #268bd2; border-radius: 5px; font-family: sans-serif; color: #657b83; font-size: 20px; margin: auto;">
   <p>
     Hallo travellers of the internet. If you are here, it is probably because of the Town or because I have scribbled the url to this website on some random place.
   </p>
