@@ -3,7 +3,7 @@ title: Into the <div class="container"><div><span>shadow garten</span><span>shad
 ---
 
 <blockquote style="background-color: #fdf6e3; max-width: 40em; padding: 0.5em 1em; border-left: 5px solid #dc322f; font-family: sans-serif; color: #657b83; font-size: 20px">
-  <h1 style="font-size: 30px; margin-bottom: 0px; text-align: left;":>Inactive Site!!</h1>
+  <h1 style="font-size: 30px; margin-bottom: 0px; text-align: left;">Inactive Site!!</h1>
   <p style="text-align: left; margin-top: 5px; color: #93a1a1;"><em>
     (it is also broken)
     </em></p>
