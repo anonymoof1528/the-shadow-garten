@@ -2,18 +2,22 @@
 title: Into the <div class="container"><div><span>shadow garten</span><span>shadow garten</span></div></div>
 ---
 
-<blockquote style="background-color: #fdf6e3; max-width: 40em; padding: 0.5em 1em; border-left: 5px solid #268bd2; border-radius: 5px; font-family: sans-serif; color: #657b83; font-size: 20px; margin: auto;">
-  <p>
-    Hallo travellers of the internet. If you are here, it is probably because of the Town or because I have scribbled the url to this website on some random place.
+<blockquote style="background-color: #fdf6e3; max-width: 40em; padding: 0.5em 1em; border-left: 5px solid #dc322f; font-family: sans-serif; color: #657b83; font-size: 20px">
+  <h1 style="font-size: 30px; margin-bottom: 0px; text-align: left;":>Inactive Site!!</h1>
+  <p style="text-align: left; margin-top: 5px; color: #93a1a1;"><em>
+    (it is also broken)
+    </em></p>
+  <p style="text-align: left;">
+    Hallo there people. If it wasn't obvious, this website seems to be a little bit broken. It is also a tad bit inactive, and incomplete. So, please tread carefully. There may be some loose floorboards, and the paint's still wet (somehow).
   </p>
-  <p>
-    You may notice that this website is, in fact, not complete. This is because the current owner of the website seems to be doing nothing abou it.
+  <p style="text-align: left;">
+    Hopefully the owner of this website <span style="color: #93a1a1; font-size: 16px;">(anonymous135)</span> <b> FIXES IT ANY TIME SOON</b>.
   </p>
-  <p>
-    Please excuse him. This website may be updated eventually. That is all I had to say. Bye bye, and have fun on other Town member's websites. You're welcome for the merge conflicts, anonymous!
+  <p style="text-align: left;">
+    Anyways, that is all I had to say. You are welcome for the merge conflicts, anonymous.
   </p>
-  <p>
-    - M.spicata, from <a href="https://spicata.99000000.xyz" style="color: #268bd2; text-decoration: none;">spicata99</a> :-)
+  <p style="text-align: left;">
+    this message is brought to you by M.spicata, from <a href="https://spicata.99000000.xyz" style="color: #268bd2; text-decoration: none;">spicata99</a> (wow, what an epic plug)
   </p>
 </blockquote>
 
