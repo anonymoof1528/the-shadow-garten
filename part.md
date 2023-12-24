@@ -18,4 +18,3 @@ One could not hope for such spite
 So burn the blade and cast the light
 
 On this wretched eye, don bright
-
