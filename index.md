@@ -8,7 +8,7 @@ title: Into the <div class="container"><div><span>shadow garten</span><span>shad
 
 Jello! I make some funny notes for things I find interesting or just for reference. Ignore the link below, only my joy for finally having a website.
 
-[waw](screw_right_wings.md)
+[waw](awakening.md)
 
 I make notes on mostly science (physics & chem, anything else is terrible), literature and also Japanese (usually summaries). 
 

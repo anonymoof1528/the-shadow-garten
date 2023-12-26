@@ -31,7 +31,7 @@ There will also be ***questions directed to you that you must answer*** within y
 ### Email/message/reply
 - Your lucky (or unlucky) day! A person out there actually cares enough to send an email/message your way and you are to respond to their questions and concerns. The person can be Japanese or Australian, and the same goes for you.
 - #### Structure
-	- Salutation - top line, on the left side of the page (left-wing? [poggers poggers](../screw_right_wings))
+	- Salutation - top line, on the left side of the page (left-wing? [poggers poggers](../awakening.md))
 		- 'person' へ
 	- Introduction: one row below salutation, one space indent on the left side of the page
 		- Address the person with saying '元気？', or if they ask it, say '元気だよ。'person' は？' (or not ~~to lose more space~~ and explain why),
