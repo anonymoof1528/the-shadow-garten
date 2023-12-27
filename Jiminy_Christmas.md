@@ -1,5 +1,5 @@
 ---
-title: Jiminy Christmas!
+title: Jiminy Christmas! ☃
 ---
 A happy holidays to you all on behalf of all the town!
 
