@@ -78,7 +78,7 @@ nuclei, wires and magnets, anything that involves charges at all. So, when you p
 and the electrons in the atoms inside of the wall are repelling each other. Yes, the valence shell electrons between the very atoms that make up an object interact with the valence shell electrons of atoms in another object, causing a repulsion through electrostatic force. This is why you can't simply phase through matter (yes, if electromagnetism didn't exist, you can 
 phase through anything; or if you or the object you're trying to go through doesn't have any particles that repel particles that you're made up of or have on you, then you can also phase through that object). At a sub-atomic level, electrons are shooting photons at each other out of sync, pushing them farther and farther away from each other. On the other hand, inside of the nucleus, 
 exchanges of photons between protons and electrons do occur, but occurs such that instead of the photons hitting the protons and electrons apart and causing them to have a repulsive electrostatic force, they each exchange a photon (as though timed) such that they both exchange and receive photons at the same time, attracting them. This is explained very well in ScienceClic's 
-video on electromagnetic fields and electric/magnetic forces, which can be found ![here](https://www.youtube.com/watch?v=XoVW7CRR5JY&t=183s).
+video on electromagnetic fields and electric/magnetic forces, which can be found [here](https://www.youtube.com/watch?v=XoVW7CRR5JY&t=183s).
 
 
 In any case, that's all from me today.
