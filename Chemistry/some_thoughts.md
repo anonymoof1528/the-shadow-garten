@@ -52,7 +52,7 @@ not the case. If you were to try and experimentally determine the bond lengths o
 Remember how I mentioned that the double bond can exist between any oxygen atom and the central carbon atom? Considering this, we have three possible Lewis diagrams that just look like they've been rotated. But, instead of the carbonate ion being one of these structures *the carbonate ion can exist in all three structures at the same time*! These are known as resonance structures, because the carbonate ion 
 *resonates between all three structures*. This creates a *resonance hybrid* which is close to how the actual structure of the ion, instead of being one of the Lewis diagram. This is due to the nature of the delocalised ions in the covalent bonds between the carbon atom and oxygen atoms, instead creating a structure that utilises all three Lewis diagrams as contributing structures, shown below.
 
-!
+![no way carbonate resonance structures](carbonate resonance.png)
 
 Do they oscillate between these structures? That'd be so cool. But I, uh, simply don't know. I just learned about this quite recently and it popped up in my head and remembered how funny it was.
 
