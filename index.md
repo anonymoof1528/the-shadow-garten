@@ -13,9 +13,11 @@ Jello! I make some funny notes for things I find interesting or just for referen
 I make notes on mostly science (physics & chem, anything else is terrible), literature and also Japanese (usually summaries). 
 
 
-## Check out my new style commits!
+# Check out my new style commits!
 - [a funny idea](Chemistry/some_thoughts.md)
 
+
+# Older commits
 
 Physics Notes:
 - [i need help (first physics CAP notes)](Physics/Linear_Motion_Notes.md)
