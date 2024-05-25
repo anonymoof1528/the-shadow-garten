@@ -23,7 +23,7 @@ Let's depart from the odd thoughts that physicists often have. If you're into th
 However, vapours are formed through evaporation, which is thought to be represented through the vapour form of a substance being in equilibrium with either the solid state or liquid state of that same substance. It isn't exactly a state of matter, but rather a diffusion of the solid or liquid state of the substance into a space of air; in essence, it's a 
 mixture, as shown below.
 
-$$\text{H_2O_{(l)}} \leftrightharpoons \text{H_2O_{(v)}}$$
+$${H_2O_{(l)}} \leftrightharpoons {H_2O_{(v)}}$$
 
 The equilibrium between water and water vapour, denoted with the (v) symbol (*not exactly as a state symbol*).
 
