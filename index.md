@@ -2,9 +2,6 @@
 title: Into the <div class="container"><div><span>shadow garten</span><span>shadow garten</span></div></div>
 ---
 
-<blockquote style="background-color: #fdf6e3; max-width: 40em; padding: 0.5em 1em; border-left: 5px solid #dc322f; font-family: sans-serif; color: #657b83; font-size: 20px; margin: auto;">
-  <h1 style="font-size: 30px; margin-bottom: 0px; text-align: left; color: #657b83">im back (Again Again)</h1>
-</blockquote>
 
 Jello! I make some funny notes for things I find interesting or just for reference. Ignore the link below, only my joy for finally having a website.
 
@@ -13,11 +10,11 @@ Jello! I make some funny notes for things I find interesting or just for referen
 I make notes on mostly science (physics & chem, anything else is terrible), literature and also Japanese (usually summaries). 
 
 
-# Check out my new style commits!
+## Check out my new style commits!
 - [a funny idea](Chemistry/some_thoughts.md)
 
 
-# Older commits
+## Older commits
 
 Physics Notes:
 - [i need help (first physics CAP notes)](Physics/Linear_Motion_Notes.md)
